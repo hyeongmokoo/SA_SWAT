@@ -1,0 +1,17 @@
+v__SFTMP.bsn 1
+v__SMTMP.bsn -0.5
+v__ALPHA_BF.gw 0.75
+v__GW_DELAY.gw 375
+r__CN2.mgt -0.075
+v__CH_N2.rte 0.3
+v__CH_K2.rte 375
+r__SOL_AWC().sol 0.25
+r__SOL_K().sol 0.5
+v__ESCO.hru 1
+v__GWQMN.gw 750
+v__REVAPMN.gw 375
+v__SURLAG.bsn 6
+v__CANMX.hru 10
+v__RCN.bsn 2.5
+v__ERORGN.hru 1.25
+v__NPERCO.bsn 1

@@ -1,0 +1,6 @@
+ .sdr file Watershed HRU: 17 Subbasin: 4 HRU: 13 Luse: FODB Soil: I-Be-2c-3963 Slope: 0-56 Friday, December 27, 2019 3:46:47 PM VGESWAT 2012.622
+      50.0    | RE: Effective radius of drains (mm)
+   15000.0    | SDRAIN: Distance bwtween two drain tubes or tiles (mm)
+      10.0    | DRAIN_CO: Drainage coefficient (mm/day)
+       1.0    | PC: Pump capacity (def pump cap - 1.042mm/hr or 25mm/day)
+       1.0    | LATKSATF: Multiplication factor to determine conk(j1,j) from sol_k(j1,k) for HRU

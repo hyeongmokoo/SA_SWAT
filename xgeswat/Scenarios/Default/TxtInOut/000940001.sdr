@@ -1,0 +1,6 @@
+ .sdr file Watershed HRU: 152 Subbasin: 94 HRU: 1 Luse: GRAS Soil: Jc55-2ab-4391 Slope: 37-9999 Thursday, January 2, 2020 7:30:08 PM VGESWAT 2012.622
+      50.0    | RE: Effective radius of drains (mm)
+   15000.0    | SDRAIN: Distance bwtween two drain tubes or tiles (mm)
+      10.0    | DRAIN_CO: Drainage coefficient (mm/day)
+       1.0    | PC: Pump capacity (def pump cap - 1.042mm/hr or 25mm/day)
+       1.0    | LATKSATF: Multiplication factor to determine conk(j1,j) from sol_k(j1,k) for HRU

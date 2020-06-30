@@ -1,0 +1,287 @@
+//  .gw parameters
+PCOR            1        5
+SHALLST   	0	1000
+DEEPST   	0	3000
+GW_DELAY   	0	500
+ALPHA_BF   	0	1
+GWQMN   	0	5000
+GW_REVAP   	0.02	0.2
+REVAPMN   	0	500
+RCHRG_DP   	0	1
+GWHT   	        0	25
+GW_SPYLD   	0	0.4
+GW_NO3   	0	1000
+GWSOLP   	0	1000
+
+//  .mgt parameters
+ALAI   		0	8
+BIO_MS   	0	8
+PHU   		0	3500
+BIO_MN   	0	5000
+CN2   		20	90
+USLE_P   	0.1	1
+HEAT_UNITS      500     5000
+CNOP            20      90
+BIO_TARG        0       5000 
+BIO_INIT        0       5000
+HI_TARG         0       5000
+LAI_INIT        0       8
+CURYR_MAT       0       100
+
+// Harvest
+HARVEFF         0       1
+HI_OVR          0       1
+
+// Grazing
+BIO_EAT         0       100
+BIO_TRMP        0       100
+MANURE_KG       0       100
+
+
+// Auto Irrigation
+AUTO_WSTRS      0       1
+
+// Auto fertilization
+AFERT_ID        1       100
+AUTO_NSTRS      0       1
+AUTO_NAPP       0       500
+AUTO_NYR        0       500
+AUTO_EFF        0       2
+
+// Street sweeping 
+SWEEPEFF        0       1
+FR_CURB         0.01    1
+
+// Continuous Fertilizer
+FERT_DAYS       0       365
+CFRT_KG         0       5000
+
+//  .sol parameters
+SOL_ZMX  	0	3500
+ANION_EXCL  	0.1	1
+SOL_CRK  	0	1
+SOL_Z  		0	3500
+SOL_BD  	1.1	2.5
+SOL_AWC  	0	1
+SOL_K  		0	2000
+SOL_CBN  	0.05	10
+SOL_ALB  	0	0.25
+USLE_K  	0	0.65
+SOL_EC  	0	100
+
+//  .rte parameters
+CH_W2   	0	1000
+CH_D   		0	30
+CH_S2   	0	10
+CH_L2   	0	200
+CH_N2   	0	0.3
+CH_K2   	0	150
+CH_EROD   	0	0.6
+CH_COV   	0	1
+CH_WDR   	0	10000
+ALPHA_BNK   	0	1
+
+//  .hru  parameters
+SLSUBBSN  	10	150
+SLOPE  		0	0.6
+OV_N  		0	0.8
+LAT_TTIME  	0	180
+LAT_SED  	0	5000
+SLSOIL  	0	0.6
+CANMX  		0	100
+ESCO  		0.01	1
+EPCO  		0.01	1
+RSDIN  		0	10000
+ERORGN  	0	5
+ERORGP  	0	5
+FILTERW  	0	100
+FLOWMIN  	0	100
+DIVMAX  	0	150
+FLOWFR  	0	1
+DDRAIN  	0	2000
+TDRAIN  	0	72
+GDRAIN  	0	100
+POT_FR  	0	1
+POT_TILE  	0	100
+POT_VOLX  	0	100
+POT_VOL  	0	100
+POT_NSED  	0	100
+POT_NO3L  	0	1
+
+// .sub parameters
+PLAPS   	0	100
+TLAPS   	0	50
+SNO_SUB   	0	150
+CH_L1   	0.05	200
+CH_S1   	0	10
+CH_W1   	1	1000
+CH_K1   	5	150
+CH_N11   	0.01	0.3
+CO2   		0	800
+
+
+// .bsn parameters
+SNOCOVMX  	0	500
+SNO50COV  	0.01	0.99
+RCN  		0	15
+SURLAG  	1	24
+APM  		0.5	2
+PRF  		0	2
+SPCON  		0.001	0.01
+SPEXP  		1	1.5
+EVRCH  		0.5	1
+EVLAI  		0	10
+FFCB  		0	1
+CMN  		0.001	0.003
+UBN  		0	100
+UBP  		0	100
+NPERCO  	0.01	1
+PPERCO  	10	17.5
+PHOSKD  	100	200
+PSP  		0.01	0.7
+RSDCO  		0.02	0.1
+PERCOP  	0	1
+WDPQ  		0	1
+WGPQ  		0	1
+WDLPQ  		0	1
+WGLPQ  		0	1
+WDPS  		0	1
+WGPS  		0	1
+WDLPS  		0	1
+WGLPS  		0	1
+BACTKDQ  	0	500
+THBACT  	0	1
+MSK_CO1  	0	10
+MSK_CO2  	0	10
+MSK_X  		0	0.5
+SFTMP  		-5	5
+SMTMP  		-5	5
+SMFMX  		0	10
+SMFMN  		0	10
+TIMP  		0.01	1
+
+
+// .chm  parameters
+SOL_NO3  	0	100
+SOL_ORGN  	0	10000
+SOL_SOLP  	0	100
+SOL_ORGP  	0	400
+PLTPST  	0	500
+SOLPST  	0	500
+PSTENR  	0	5
+
+
+// .swq parameters
+DISOX  		0	50
+BOD  		0	1000
+ALGAE  		0	200
+ORGANICN  	0	100
+AMMONIAN  	0	50
+NITRITEN  	0	100
+NITRATEN  	0	50
+ORGANICP  	0	25
+DISOLVP  	0	25
+RS1  		15	1.82
+RS2  		0.001	0.1
+RS3  		0	1
+RS4  		0.001	0.1
+RS5  		0.001	0.1
+RS6  		0.01	10
+RS7  		0.01	10
+RK1  		0.02	3.4
+RK2  		0	100
+RK3  		-0.36	0.36
+RK4  		0	100
+RK5  		0.05	4
+RK6  		0	10
+BC1  		0.1	1
+BC2  		0.2	2
+BC3  		0.2	0.4
+BC4  		0.01	0.7
+CHPST_CONC  	0	1000
+CHPST_REA  	0	0.1
+CHPST_VOL  	0	10
+CHPST_KOC  	0	0.1
+CHPST_STL  	0	10
+CHPST_RSP  	0	1
+CHPST_MIX  	0	0.1
+SEDPST_CONC  	0	1000
+SEDPST_REA  	0	0.1
+SEDPST_BRY  	0	0.1
+SEDPST_ACT  	0	1
+
+
+// .pnd parameters
+PND_FR  	0	1
+PND_PSA  	0	1000
+PND_PVOL  	0	100
+PND_ESA  	0	200
+PND_EVOL  	0	200
+PND_VOL  	0	100
+PND_SED  	0	5000
+PND_NSED  	0	5000
+PND_K  		0	1
+NDTARG  	0	60
+PSETL1  	0	20
+PSETL2  	0	20
+NSETL1  	0	20
+NSETL2  	0	20
+CHLA  		0	1
+SECCI  		0	1
+PND_NO3  	0	100
+PND_SOLP  	0	50
+PND_ORGN  	0	75
+PND_ORGP  	0	50
+WET_FR  	0	1
+WET_NSA  	0	3000
+WET_NVOL  	0	300
+WET_MXSA  	0	3000
+WET_MXVOL  	0	300
+WET_VOL  	0	100
+WET_SED  	0	5000
+WET_NSED  	0	5000
+WET_K  		0	1
+PSETLW1  	0	20
+PSETLW2  	0	20
+NSETLW1  	0	20
+NSETLW2  	0	20
+CHLAW  		0	1
+SECCIW  	0	1
+WET_NO3  	0	100
+WET_SOLP  	0	 50
+WET_ORGN  	0	 75
+WET_ORGP  	0	 50
+
+
+// .crp parameters
+USLE_C          0.001   0.5
+
+
+//  .frt parameters
+FMINN        0.005   .025
+FMINP        0.001   .015
+FORGN        0.01     .05
+FORGP        0.001    .02
+FNH3N           0      1
+BACTPDB         0      1
+BACTLPDB        0      1
+BACTKDDB        0      1
+
+// .wwq parameters
+AI0            10     100
+AI1           0.07    0.09
+AI2           0.01    0.02
+AI3           1.4     1.8
+AI4           1.6     2.3
+AI5           3.0     4.0
+AI6           1.0     1.14
+MUMAX         1.0     3.0
+RHOQ          0.05    0.5        
+TFACT         0.01    1.0
+K_L           0.2227  1.135
+K_N           0.01    0.3
+K_P           0.001   0.05
+ 
+
+
+

@@ -1,0 +1,37 @@
+ .hru file Watershed HRU: 57 Subbasin: 38 HRU: 1 Luse: GRAS Soil: I-Bh-U-2c-3967 Slope: 30-9999 Friday, January 3, 2020 12:55:29 PM VGESWAT 2012.622
+             1.0    | HRU_FR : Fraction of subbasin area contained in HRU
+            30.0    | SLSUBBSN : Average slope length [m]
+       0.6720066    | HRU_SLP : Average slope stepness [m/m]
+            0.15    | OV_N : Manning's "n" value for overland flow
+             0.0    | LAT_TTIME : Lateral flow travel time [days]
+             0.0    | LAT_SED : Sediment concentration in lateral flow and groundwater flow [mg/l]
+             0.0    | SLSOIL : Slope length for lateral subsurface flow [m]
+       10.000000    | CANMX : Maximum canopy storage [mm]
+        1.000000    | ESCO : Soil evaporation compensation factor
+             1.0    | EPCO : Plant uptake compensation factor
+             0.0    | RSDIN : Initial residue cover [kg/ha]
+        1.250000    | ERORGN : Organic N enrichment ratio
+             0.0    | ERORGP : Organic P enrichment ratio
+             0.0    | POT_FR : Fraction of HRU are that drains into pothole
+             0.0    | FLD_FR : Fraction of HRU that drains into floodplain
+             0.0    | RIP_FR : Fraction of HRU that drains into riparian zone
+Special HRU: Pothole
+             0.0    | POT_TILE : Average daily outflow to main channel from tile flow [m3/s]
+             0.0    | POT_VOLX : Maximum volume of water stored in the pothole [m3]
+             0.0    | POT_VOL : Initial volume of water stored in pothole [m3]
+             0.0    | POT_NSED : Normal sediment concentration in pothole [mg/l]
+             0.0    | POT_NO3L : Nitrate decay rate in pothole [1/day]
+            6000    | DEP_IMP : Depth to impervious layer in soil profile [mm]
+
+
+
+             0.5    | EVPOT Pothole : evaporation coefficient
+            35.0    | DIS_STREAM : Average distance to stream [m]
+             1.0    |  CF: Decomposition response to soil temperature and moisture
+             1.0    | CFH: Maximum humification rate
+           0.055    | CFDEC: Undisturbed soil turnover rate under optimum soil water and temperature
+             0.0    | SED_CON: Sediment concentration in runoff, after urban BMP is applied
+             0.0    | ORGN_CON: Organic nitrogen concentration in runoff, after urban BMP is applied
+             0.0    | ORGP_CON: Organic phosphorus concentration in runoff, after urban BMP is applied
+             0.0    | SOLN_CON: Soluble nitrogen concentration un runoff, after urban BMP is applied
+             0.0    | SOLP_CON: Soluble phosphorus concentration in runoff, after urban BMP is applied

@@ -1,0 +1,29 @@
+ .sep file Watershed HRU: 65 Subbasin: 43 HRU: 1 Luse: GRAS Soil: I-Af-Bd-2-4351 Slope: 30-9999 Friday, January 3, 2020 12:55:29 PM VGESWAT 2012.622
+
+            1    | ISEP_TYP : The type of septic system
+            0    | ISEP_IYR :  Year the septic system began operation
+            0    | ISEP_OPT :  1=active, 2=failing, 0=non-septic
+          2.5    | SEP_CAP : Average number of permanent residents in a house
+        100.0    | BZ_AREA : Surface area of drainfield (m2)
+           70    | ISEP_TFAIL :  Time until failing system gets fixed, days
+        500.0    | BZ_Z : Depth to the top of biozone layer (mm)
+         50.0    | BZ_THK : Thickness of biozone layer (mm)
+          0.5    | SEP_STRM_DIST : Distance to the stream from the septic HRU (km)
+          1.5    | SEP_DEN : Number of septic systems per square kilometer
+       1000.0    | BIO_BD : Density of biomass (kg/m3)
+          0.5    | COEFF_BOD_DC : BOD decay rate coefficient,m3/d
+         0.32    | COEFF_BOD_CONV : Gram of bacterial growth/gram of BOD
+         30.0    | COEFF_FC1 : Field capacity coefficient 1, unitless
+          0.8    | COEFF_FC2 : Field capacity coefficient 2, unitless
+          1.3    | COEFF_FECAL : F. coli bacteria decay rate coefficient,m3/d
+          0.1    | COEFF_PLQ : Conversion factor for plaque from TDS
+          0.5    | COEFF_MRT : Mortality rate coefficient
+         0.16    | COEFF_RSP : Respiration rate coefficient
+          0.3    | COEFF_SLG1 : Sloughing coefficient 1
+          0.5    | COEFF_SLG2 : Sloughing coefficient 2
+          1.5    | COEFF_NITR : Nitrification rate coefficient
+         0.32    | COEFF_DENITR : Denitrification rate coefficient
+        128.0    | COEFF_PDISTRB : Linear P sorption distribution coefficient,L/kg
+        850.0    | COEFF_PSORPMAX : Maximum P sorption capacity, mg P/kg Soil
+         0.04    | COEFF_SOLPSLP : Slope in the effluent soluble P equation
+          3.1    | COEFF_SOLPINTC : Intercept in the effluent soluble P equation

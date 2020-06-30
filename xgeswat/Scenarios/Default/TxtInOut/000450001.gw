@@ -1,0 +1,17 @@
+ .gw file Watershed HRU: 68 Subbasin: 45 HRU: 1 Luse: GRAS Soil: I-Be-2c-3963 Slope: 30-9999 Friday, January 3, 2020 12:55:29 PM VGESWAT 2012.622
+          1000.0    | SHALLST : Initial depth of water in the shallow aquifer [mm]
+          2000.0    | DEEPST : Initial depth of water in the deep aquifer [mm]
+      375.000000    | GW_DELAY : Groundwater delay [days]
+        0.750000    | ALPHA_BF : BAseflow alpha factor [days]
+      750.000000    | GWQMN : Threshold depth of water in the shallow aquifer required for return flow to occur [mm]
+            0.02    | GW_REVAP : Groundwater "revap" coefficient
+      375.000000    | REVAPMN: Threshold depth of water in the shallow aquifer for "revap" to occur [mm]
+            0.05    | RCHRG_DP : Deep aquifer percolation fraction
+             1.0    | GWHT : Initial groundwater height [m]
+           0.003    | GW_SPYLD : Specific yield of the shallow aquifer [m3/m3]
+             0.0    | SHALLST_N : Initial concentration of nitrate in shallow aquifer [mg N/l]
+             0.0    | GWSOLP : Concentration of soluble phosphorus in groundwater contribution to streamflow from subbasin [mg P/l]
+             0.0    | HLIFE_NGW : Half-life of nitrate in the shallow aquifer [days]
+             0.0    | LAT_ORGN : Organic N in the base flow [mg/L]
+             0.0    | LAT_ORGP : Organic P in the base flow [mg/L]
+            0.01    | ALPHA_BF_D : Baseflow alpha factor for deep aquifer [days]
